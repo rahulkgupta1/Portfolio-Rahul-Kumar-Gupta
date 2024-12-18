@@ -90,8 +90,8 @@ a{
     font-size: 7em;
     color: rgb(231,231,231);
 
-    bottom: -16%;
-    left: -5%;
+    bottom: -13%;
+    left: -14%;
     font-weight: bold;
     transition: all 3s;
 }
@@ -166,6 +166,7 @@ a{
 
 .hero-section-right{
     position: relative;
+    scale: 0.7;
 
 }
 .absolute{
